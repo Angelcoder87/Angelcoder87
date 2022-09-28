@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Angelcoder87
-- 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python code writing
+- 👋 Hi, I’m Angela Odhiambo
+- 👀 I’m interested in coding and reading 
+- 🌱 I’m currently learning python, HTML,CSS and Javascript
+- 💞️ I’m looking to collaborate on python code writing and responsive web design
 - 📫 How to reach me angelaodhiambo87@gmail.com
 
 <!---
