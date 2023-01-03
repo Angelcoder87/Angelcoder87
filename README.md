@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Angela Odhiambo
-- 👀 I’m interested in coding and reading 
-- 🌱 I’m currently learning python, HTML,CSS and Javascript
-- 💞️ I’m looking to collaborate on python code writing and responsive web design
+- 👀 I’m interested in becoming a fullstack developer 
+- 🌱 I’m skilled in HTML,CSS ,Javascript and python.
+- 💞️ I’m looking to improve my skills in python and Javascript
 - 📫 How to reach me angelaodhiambo87@gmail.com
+- currently learning React Js.
 
 <!---
 Angelcoder87/Angelcoder87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
