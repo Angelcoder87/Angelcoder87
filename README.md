@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Angela Odhiambo
-- 👀 I’m interested in becoming a fullstack developer 
+- 👀 I’m interested in becoming a fullstack engineer
+- I am currently enrolled into the alx software engineering program.
 - 🌱 I’m skilled in HTML,CSS ,Javascript and python.
 - 💞️ I’m looking to improve my skills in python and Javascript
 - 📫 How to reach me angelaodhiambo87@gmail.com
