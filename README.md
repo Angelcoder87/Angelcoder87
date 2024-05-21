@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angela Odhiambo
 - 👀 The new ALX student in town
-- 🌱 I’m skilled in HTML,CSS ,Javascript and python.
+- 🌱 I’m skilled in HTML,CSS ,Javascript, SQL and python.
 - 💞️ I’m looking to improve my skills in python and Javascript
 - 📫 How to reach me angelaodhiambo87@gmail.com
 - currently learning React Js.
